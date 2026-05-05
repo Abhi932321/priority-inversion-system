@@ -14,3 +14,6 @@ class Resource:
     def __init__(self):
         self.locked = False
         self.holder = None
+
+
+print("Simulating priority inversion scenario...")
